@@ -1,0 +1,59 @@
+const Services = () => {
+  return (
+    <div>
+      <div className="max-w-4xl m-auto">
+        <div>HOme</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+        <div>About</div>
+      </div>
+    </div>
+  );
+};
+export { Services };
